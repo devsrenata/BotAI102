@@ -6,7 +6,7 @@
 
 
 ## 🚀 O que é o BotAI102  
-O BotAI102 é um bot em Python que combina inteligência artificial generativa com reconhecimento de voz e síntese de voz da Microsoft — permitindo interação falada com o usuário (fala → IA → resposta falada). :contentReference[oaicite:1]{index=1}
+O BotAI102 é um bot em Python que combina inteligência artificial generativa com reconhecimento de voz e síntese de voz da Microsoft — permitindo interação falada com o usuário (fala → IA → resposta falada). 
 
 ## 🎯 Funcionalidades principais  
 - 🎤 **Reconhecimento de voz** — utiliza microfone para capturar áudio do usuário e converter em texto.  
@@ -22,7 +22,7 @@ O BotAI102 é um bot em Python que combina inteligência artificial generativa c
 
 ## 📂 Estrutura do repositório  
 - `app.py` — script principal para rodar o bot. :contentReference[oaicite:3]{index=3}  
-- `Chatbot.py` — lógica de IA, voz e conversação (processamento de voz e geração de resposta). :contentReference[oaicite:4]{index=4}  
+- `Chatbot.py` — lógica de IA, voz e conversação (processamento de voz e geração de resposta) 
 
 
 
