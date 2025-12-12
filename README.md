@@ -1,6 +1,8 @@
 
 # 🤖 BotAI102
 
+Link do BotAI102 https://renatabot.streamlit.app/
+
 > Projeto de IA generativa + síntese de voz + reconhecimento de voz com Microsoft
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/36ee9d8a-f0fc-4228-bb71-58eec1b37a62" />
 
